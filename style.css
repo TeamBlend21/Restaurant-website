@@ -5,7 +5,7 @@
 }
 body
  {  /* Styling for section headings type selector */
-   font-family: "Space Grotesk", sans-serif;
+   /*font-family: "Space Grotesk", sans-serif;
 }
 /*h1{
     font-family:"Rubik Storm", system-ui;
@@ -15,20 +15,20 @@ body
 }
 
 .menu {  /* Added a new class for menu items */
-    color: blue;
+   /* color: blue;
 
 }
 
-#logo {   /* Added a new ID for the logo */
-    color: green;
+/*#logo {   /* Added a new ID for the logo */
+    /*color: green;
     font-size: 32px;
     width: 150px;
     height: auto;
     font-family: ;
 }
 
- on menu items */
-.btn {
+/* on menu items */
+/*.btn {
     text-decoration-style: none;
     color: white;
     background-color: green;
@@ -37,7 +37,7 @@ body
     transition: background-color 0.3s ease;
 }
 /* psuedo-class selector for hover effect */
-.btn:hover {
+/*.btn:hover {
     background-color: white;
     color: green;
     border: 1px solid green;
